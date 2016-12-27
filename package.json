@@ -1,0 +1,34 @@
+{
+  "name": "passport-npm-github",
+  "version": "1.0.0",
+  "description": "Github access token workflow for `npm`",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "github",
+    "npm",
+    "passport",
+    "authentication",
+    "authorization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godaddy/passport-npm-github"
+  },
+  "author": "GoDaddy Operating Company, LLC.",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "4.14.0",
+    "passport": "0.3.2",
+    "passport-npm": "2.0.0",
+    "tap": "8.0.1"
+  },
+  "dependencies": {
+    "concat-stream": "1.6.0",
+    "hyperquest": "2.1.2"
+  }
+}
