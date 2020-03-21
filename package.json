@@ -28,7 +28,7 @@
     "tap": "8.0.1"
   },
   "dependencies": {
-    "concat-stream": "1.6.0",
+    "concat-stream": "1.6.2",
     "hyperquest": "2.1.2"
   }
 }
