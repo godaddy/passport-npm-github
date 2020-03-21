@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "concat-stream": "1.6.0",
-    "hyperquest": "2.1.2"
+    "hyperquest": "2.1.3"
   }
 }
